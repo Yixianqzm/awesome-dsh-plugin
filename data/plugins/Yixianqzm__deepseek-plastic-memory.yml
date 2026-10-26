@@ -1,0 +1,6 @@
+url: https://github.com/Yixianqzm/deepseek-plastic-memory
+name: Yixianqzm/deepseek-plastic-memory
+category: memory
+description:
+  en: Partitioned long-term memory for DSH with a forgetting curve — separate folders for facts, promises and preferences, approval before writes, and one-command backup/restore.
+  zh: 给 DSH 的分区式长期记忆，带遗忘曲线——事实、约定、喜好各占一个文件夹，写入前先过审批，一条命令备份/还原。
